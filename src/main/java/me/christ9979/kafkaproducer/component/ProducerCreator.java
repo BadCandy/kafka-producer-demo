@@ -1,4 +1,4 @@
-package me.christ9979.kafkaproducer;
+package me.christ9979.kafkaproducer.component;
 
 import me.christ9979.kafkaproducer.constant.KafkaProperties;
 import me.christ9979.kafkaproducer.custom.CustomPartitioner;
